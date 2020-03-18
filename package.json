@@ -1,0 +1,16 @@
+{
+  "name": "com.neuecc.unirx",
+  "version": "7.1.0",
+  "displayName": "UniRx",
+  "description": "Reactive Extensions for Unity",
+  "unity": "2018.1",
+  "unityRelease": "",
+  "keywords": [
+  ],
+  "author": {
+    "name": "Neuecc",
+    "email": "",
+    "url": ""
+  },
+  "type": "library"
+}
