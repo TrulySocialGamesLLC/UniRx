@@ -1,6 +1,6 @@
 {
   "name": "com.neuecc.unirx",
-  "version": "7.1.0",
+  "version": "7.1.1",
   "displayName": "UniRx",
   "description": "Reactive Extensions for Unity",
   "unity": "2018.1",
